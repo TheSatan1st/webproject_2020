@@ -1,0 +1,4 @@
+[22-May-2021 08:39:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/urusel/benefit-agency.com/wp-content/themes/benefit/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/urusel/benefit-agency.com/wp-content/themes/benefit/404.php on line 2

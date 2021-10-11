@@ -1,0 +1,10 @@
+
+25-02-2021 18:50:20.1614279020.7945 [37.19.52.109][6037f1][info] Parent plugin start installation!
+25-02-2021 18:50:20.1614279020.7972 [37.19.52.109][6037f1][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.0
+25-02-2021 18:50:20.1614279020.8417 [37.19.52.109][6037f1][info] Parent plugin installation complete!
+27-08-2021 10:35:38.1630060538.4357 [31.4.245.172][6128bf][info] Try to create backup directory. Backup dir: (/home/urusel/benefit-agency.com/wp-content/uploads/wio_backup)
+27-08-2021 11:47:47.1630064867.4267 [90.154.70.150][6128d0][info] Parent plugin start deactivation!
+27-08-2021 11:47:47.1630064867.4268 [90.154.70.150][6128d0][info] Parent plugin deactivation complete!
